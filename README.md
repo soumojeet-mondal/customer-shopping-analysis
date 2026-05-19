@@ -65,6 +65,7 @@ The Power BI dashboard includes:
 ---
 
 ## Dashboard Preview
-<img width="1031" height="605" alt="image" src="https://github.com/user-attachments/assets/30289166-0f35-42a8-8d9c-cb75ff258276" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/876c99a4-7fee-4f80-beaf-554c4318892c" />
+
 
 
