@@ -39,7 +39,6 @@ The main objective of this project is to derive meaningful business insights tha
 - Female customers showed higher purchasing frequency in several categories
 - Seasonal shopping trends were visible across product categories
 - Customer segmentation helped identify high-value customer groups
-<img width="4872" height="2656" alt="500731798-8bbd5dc9-eb6c-40c1-8f19-c08b4107f654" src="https://github.com/user-attachments/assets/606147bf-4bd1-46e0-bb7d-9696cb7f9d0b" />
 
 
 ---
